@@ -6,4 +6,4 @@ Home Page
 ![](Output/index.png)
 
 Signup Page
-![](Output/Signup.png)
+![](Output/signup.png)
